@@ -19,3 +19,7 @@ Steps to be followed to open the website
 Personality Insights bot link->
 https://bot.dialogflow.com/d19d2ec1-fabe-42fc-86f5-6c33441bdb04
 
+Project video->
+https://mega.nz/file/v5ECWSwa#3YHDygJYdFO22JkDSjil994RaG8klZXBKxJckVukGNs
+
+
