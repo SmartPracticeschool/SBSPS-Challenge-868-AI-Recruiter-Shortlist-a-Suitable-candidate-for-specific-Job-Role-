@@ -21,4 +21,5 @@ https://bot.dialogflow.com/d19d2ec1-fabe-42fc-86f5-6c33441bdb04
 Project video->
 https://mega.nz/file/v5ECWSwa#3YHDygJYdFO22JkDSjil994RaG8klZXBKxJckVukGNs
 
-
+PPT DriveLink->
+https://drive.google.com/file/d/1xcLwnCzPdKOmT8-6JKZkuJ_Hjs3quXpd/view?usp=sharing
